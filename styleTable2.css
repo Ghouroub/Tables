@@ -1,0 +1,10 @@
+td:nth-child(3n) {
+	box-shadow: 0 0 5px 5px red;
+}
+td:nth-child(5n) {
+	font-size: 28px;
+}
+.last {
+	box-shadow: 0 0 20px red, 20px 15px 30px orange, -20px 15px 30px yellow;
+}
+
